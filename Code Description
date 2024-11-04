@@ -9,5 +9,5 @@
   These variables will store the sum of the first and second groups of n integers, respectively.
 4.Calculate leftSum for the First n Elements:
   Create a for loop that iterates n times to read the first group of n integers.
-
+  In each iteration, read an integer from the input and add it to leftSum.
 
