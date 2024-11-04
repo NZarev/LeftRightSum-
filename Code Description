@@ -7,4 +7,6 @@
 3.Initialize Variables for Sums:
   Create two integer variables, leftSum and rightSum, and initialize them to 0.
   These variables will store the sum of the first and second groups of n integers, respectively.
+4.Calculate leftSum for the First n Elements:
+
 
