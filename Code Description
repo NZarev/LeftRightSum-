@@ -5,5 +5,6 @@
   Prompt the user to enter an integer, n, representing the number of elements in each group (left and right).
   Read the integer value for n and store it.
 3.Initialize Variables for Sums:
-These variables will store the sum of the first and second groups of n integers, respectively.
+  Create two integer variables, leftSum and rightSum, and initialize them to 0.
+  These variables will store the sum of the first and second groups of n integers, respectively.
 
