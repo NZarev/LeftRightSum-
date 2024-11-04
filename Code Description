@@ -11,5 +11,12 @@
   Create a for loop that iterates n times to read the first group of n integers.
   In each iteration, read an integer from the input and add it to leftSum.
 5.Calculate rightSum for the Next n Elements:
-
+  Create another for loop that iterates n times to read the second group of n integers.
+  In each iteration, read an integer from the input and add it to rightSum.
+6.Compare leftSum and rightSum:
+  Use an if-else statement to check if leftSum is equal to rightSum.
+    If Equal: Print Yes, sum = followed by the value of leftSum, indicating both groups have equal sums.
+    If Not Equal: Calculate the absolute difference between leftSum and rightSum (using Math.abs(leftSum - rightSum)), then print No, diff = followed by the calculated difference.
+7.End the Program:
+  The program terminates after displaying whether the sums are equal or the difference if they are not.
 
