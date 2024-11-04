@@ -1,3 +1,6 @@
 1.Initialize Program and Scanner:
   Import the Scanner class to take input from the user.
   Create a Scanner object to read inputs from the console.
+2.Input the Number of Elements (n):
+  Prompt the user to enter an integer, n, representing the number of elements in each group (left and right).
+  Read the integer value for n and store it.
